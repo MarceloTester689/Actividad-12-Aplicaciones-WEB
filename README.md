@@ -1,6 +1,6 @@
 # Actividad-12-Aplicaciones-WEB
-chuck: [ 
-    { 
+#chuck: [ 
+  #  { 
         "value": "Chuck Norris can skydive into outer space." 
     }, 
     { 
